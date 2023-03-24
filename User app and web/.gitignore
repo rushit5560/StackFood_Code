@@ -8,6 +8,7 @@
 .buildlog/
 .history
 .svn/
+migrate_working_dir/
 
 # IntelliJ related
 *.iml
@@ -30,13 +31,6 @@
 .pub-cache/
 .pub/
 /build/
-.firebaserc
-firebase.json
-.firebase
-changes.tar
-changes.zip
-
-# Web related
 
 # Symbolication related
 app.*.symbols
